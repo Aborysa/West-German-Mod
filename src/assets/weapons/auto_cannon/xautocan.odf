@@ -1,0 +1,13 @@
+[Explosion]
+classLabel = "groundblast"
+
+frameName = "xbulg.0"
+frameCount = 10
+frameDelay = 0.1
+explRadius = 2.0
+explSound = "gmagg05.wav"
+damageRadius = 8.0
+damageBallistic = 60
+damageConcussion = 0
+damageFlame = 0
+damageImpact = 0

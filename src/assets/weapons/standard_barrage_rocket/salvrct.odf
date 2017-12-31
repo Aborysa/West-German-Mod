@@ -1,0 +1,30 @@
+[OrdnanceClass]
+classLabel = "rocket"
+
+shotGeometry = "gshad00.geo"
+xplGround = "xmslgnd"
+xplVehicle = "xmslcar"
+xplBuilding = "xmslbld"
+
+ammoCost = 25
+lifeSpan = 8.0
+shotSpeed = 60.0
+damageBallistic = 0
+damageConcussion = 200
+damageFlame = 0
+damageImpact = 0
+
+[RocketClass]
+flameRadius = 0.2
+flameLength = 2.0
+flameTexture = "exhaust_r.0"
+flameFrames = 4
+flareRadius = 1.0
+flareDelay = 0.1
+flareTexture = "flare.0"
+flareFrames = 4
+smokeRadius = 0.4
+smokeDelay = 0.08
+smokePause = 0.015
+smokeTexture = "rsmoke.0"
+smokeFrames = 16

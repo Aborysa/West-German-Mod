@@ -1,0 +1,13 @@
+[Explosion]
+classLabel = "shockblast"
+
+frameName = "gpuff.0"
+frameCount = 16
+frameDelay = 0.05
+explRadius = 0.5
+explSound = "sprink01.wav"
+damageRadius = 0.5
+damageBallistic = 0
+damageConcussion = 0
+damageFlame = 0
+damageImpact = 0

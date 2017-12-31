@@ -1,0 +1,31 @@
+[OrdnanceClass]
+classLabel = "grenade"
+
+shotGeometry = "grckt00.geo"
+shotSound = "Ordin_e.wav"
+
+xplGround = "xgasxpl"
+xplVehicle = "xgasxpl"
+xplBuilding = "xgasxpl"
+
+ammoCost = 4
+lifeSpan = 60.0
+shotSpeed = 75.0
+damageBallistic = 0
+damageConcussion = 5
+damageFlame = 0
+damageImpact = 0
+
+[RocketClass]
+flameRadius = 0.5
+flameLength = 5.0
+flameTexture = "exhaust_r.0"
+flameFrames = 4
+flareRadius = 3.0
+flareTexture = "flare.0"
+flareFrames = 4
+smokeRadius = 1.25
+smokeDelay = 0.08
+smokePause = 0.04
+smokeTexture = "rsmoke.0"
+smokeFrames = 16

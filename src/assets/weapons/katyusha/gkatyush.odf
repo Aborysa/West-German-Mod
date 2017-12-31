@@ -1,0 +1,12 @@
+[WeaponClass]
+classLabel = "mortar"
+ordName = "katy"
+wpnName = "Katyusha Rocket"
+fireSound = "gpopp00.wav"
+wpnReticle = "gmortar"
+wpnPriority = 3
+wpnCategory = "ROCK"
+
+[CannonClass]
+shotDelay = 1.0
+

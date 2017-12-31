@@ -1,0 +1,22 @@
+[OrdnanceClass]
+classLabel = "tracer"
+
+shotGeometry = NULL
+xplGround = "xautocan"
+xplVehicle = "xautocan"
+xplBuilding = "xautocan"
+
+ammoCost = 4
+lifeSpan = 1.0
+shotSpeed = 200.0
+damageBallistic = 80
+damageConcussion = 0
+damageFlame = 0
+damageImpact = 0
+
+[TracerClass]
+tracerTexture = "beam_r.1"
+shotColor = 47
+lodShift = 30.0
+tracerLength = 10.0
+tracerRadius = 0.2

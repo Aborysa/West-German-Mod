@@ -1,0 +1,69 @@
+[GameObject]
+classLabel = "wingman"
+scrapValue = 6
+scrapCost = 8
+buildTime = 10.0
+maxHealth = 2500
+maxAmmo = 1500
+unitName = "Rocket Tank"
+aiName = "TankFriend"
+aiName2 = "TankEnemy"
+
+weaponHard1 = "GR1"
+weaponName1 = "gshadow"
+weaponHard2 = "GR2"
+weaponName2 = "gtaggun"
+weaponHard3 = "GM1"
+weaponName3 = "gmdmgun"
+weaponHard4 = "GS1"
+weaponName4 = "gquake"
+weaponMask=00011
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 5.0f
+velocJam = 5.0f
+
+[HoverCraftClass]
+setAltitude = 1.0
+accelDragStop = 3.5
+accelDragFull = 1.0
+alphaTrack = 20.0
+alphaDamp = 5.0
+pitchPitch = 0.25
+pitchThrust = 0.1
+rollStrafe = 0.1
+rollSteer = 0.1
+
+velocForward = 25.0
+velocReverse = 20.0
+velocStrafe = 20.0
+accelThrust = 20.0
+accelBrake = 75.0
+omegaSpin = 3.75
+omegaTurn = 2.75
+alphaSteer = 7.0
+accelJump = 20.0
+
+soundThrust = "avltnke0.wav"
+soundTurbo = "avltnke3.wav"
+
+selectWaitMsg = "wvrcktv0.wav"
+selectAttackMsg = "wvrcktvj.wav"
+selectFollowMsg = "wvrcktvn.wav"
+selectGoMsg = "wvrcktvm.wav"
+selectOtherMsg = "wvrcktvp.wav"
+
+goMsg = "wvrcktv1.wav"
+attackMsg = "wvrcktv2.wav"
+followMeMsg = "wvrcktv4.wav"
+followMsg = "wvrcktvk.wav"
+repairMsg = "wvrcktv8.wav"
+reloadMsg = "wvrcktv9.wav"
+rescueMsg = "wvrcktvc.wav"
+recycleMsg = "wvrcktvd.wav"
+otherMsg = "wvrcktvn.wav"
+
+user1Msg = "wvrcktva.wav"
+killedMsg = "wvrcktv3.wav"
+diedMsg = "abetty3.wav"

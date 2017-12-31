@@ -1,0 +1,49 @@
+workspace:
+  base: /wgmod
+  path: /${DRONE_REPO_SLUG}/
+
+pipeline:
+  pre-process:
+    image: docker.faavne.no/bzone/bztools:latest
+    when:
+      event:
+        - push
+        - tag
+
+    commands:
+      - mkdir /tmp/files
+      - find /wgmod/src -not -ipath '*/\.*' -type f -exec cp {} /tmp/files \;
+      - python3 /bztools/crlf_fixer.py /tmp/files
+      - mkdir -p /wgmod/dist
+      - zip -j -r /wgmod/dist/bundle.zip /tmp/files
+
+  release:
+    group: deploy
+    image: docker.faavne.no/bzone/bztools:latest
+    when:
+      event:
+        - tag
+    commands:
+      - \cp -f /wgmod/dist/bundle.zip /drone/deploy/wgmod_${DRONE_TAG}.zip || true
+    volumes:
+      - /mnt/nginx-fs/files/private/wgmod/builds/releases:/drone/deploy
+
+  notification-success:
+    image: docker.faavne.no/bzone/bztools:latest
+    secrets: [ webhook ]
+    when:
+      event: [ tag ]
+      status: [ success ]
+    commands:
+      - python3 /bztools/webhook.py /wgmod/.webhook.payload $${WEBHOOK} -kv "status=SUCCESS" "tag=${DRONE_TAG}" "buildlink=${DRONE_BUILD_LINK}" "repolink=${DRONE_REPO_LINK}" "repo=${DRONE_REPO_NAME}" "event=${DRONE_BUILD_EVENT}"
+  
+  notification-fail:
+    image: docker.faavne.no/bzone/bztools:latest
+    secrets: [ webhook ]
+    when:
+      event: [ tag ]
+      status: [ fail ]
+    commands: 
+      - python3 /bztools/webhook.py /wgmod/.webhook.fail $${WEBHOOK} -kv "status=FAIL" "tag=${DRONE_TAG}" "buildlink=${DRONE_BUILD_LINK}" "repolink=${DRONE_REPO_LINK}" "repo=${DRONE_REPO_NAME}" "event=${DRONE_BUILD_EVENT}"
+    
+

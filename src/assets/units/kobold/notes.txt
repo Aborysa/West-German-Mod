@@ -1,0 +1,9 @@
+Light Tank ODF still needs some editing, weapon hardpoints, scrap values, sounds, etc.
+
+To test the Kobold, copy wvltnk into addon folder. Then copy avrecy from the testing folder into addon. Then you can test the Kobold (built from recy) in singleplayer.
+
+The wvltnk folder that is not in the Version folder is the most current version.
+
+The Kobold’s collision box has been replaced with Goomba’s version and is therefor finished. Do not mess with the VDF
+
+

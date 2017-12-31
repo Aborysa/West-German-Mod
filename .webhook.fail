@@ -1,0 +1,11 @@
+{
+  "embeds": [{
+    "title": "West German Mod build",
+    "description": "Build for West German Mod {tag} failed!",
+    "color": 16711680,
+    "fields": [{
+      "name":"Build info",
+      "value": "[Build log]({buildlink})\nstatus: {status}\nevent:  {event}\nrepo:  [{repo}]({repolink})"
+    }]
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "embeds": [{
+    "title": "West German Mod build",
+    "description": "West German Mod {tag} is now released\n[Release Notes]({repolink}/releases/tag/{tag})",
+    "color": 65280,
+    "fields": [{
+      "name": "Download",
+      "value": "[Battlezone 1.5](https://media.faavne.no/bz-wgmod/releases/wgmod_{tag}.zip)"
+    },{
+      "name":"Build info",
+      "value": "[Build log]({buildlink})\nstatus: {status}\nevent:  {event}\nrepo:  [{repo}]({repolink})"
+    }]
+  }]
+}

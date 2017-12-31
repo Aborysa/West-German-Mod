@@ -1,0 +1,34 @@
+[GameObjectClass]
+classLabel = "turret"
+scrapCost = 3
+scrapValue = 3
+maxHealth = 2000
+maxAmmo = 50000
+collisionRadius = 5.0
+unitName = "Flash Tower"
+aiName = "GunTowerFriend"
+aiName2 = "GunTowerEnemy"
+heatSignature = 0.8
+imageSignature = 3.0
+radarSignature = 0.9
+
+
+weaponHard1 = "GC1"
+weaponName1 = "gflashgn"
+
+[CraftClass]
+rangeScan = 200.0
+periodScan = 0.0
+velocJam = 0.0
+
+[TurretCraftClass]
+setAltitude = 0.0
+omegaTurret = 2.0
+alphaTurret = 4.0
+alphaTrack = 10.0
+alphaDamp = 3.0
+pitchPitch = 0.5
+
+[BuildingClass]
+SoundAmbient = "abtowee0.wav"
+

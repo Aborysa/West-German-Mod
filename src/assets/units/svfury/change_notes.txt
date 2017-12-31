@@ -1,0 +1,5 @@
+CCA Fury:
+
+Increased max speed to 45
+
+decreased acceleration by about 80% (down to 25)

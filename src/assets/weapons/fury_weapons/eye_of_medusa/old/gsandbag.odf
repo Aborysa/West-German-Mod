@@ -1,0 +1,12 @@
+[WeaponClass]
+classLabel = "cannon"
+ordName = "anchor"
+wpnName = "Sandbag"
+fireSound = "gsand00.wav"
+wpnReticle = "gsandbag"
+wpnPriority = 0
+wpnCategory = "ROCK"
+
+[CannonClass]
+shotDelay =  1.5
+

@@ -1,0 +1,31 @@
+wvtdesv0	Fischer Here		Fischer Hier
+
+wvtdesv1	En route		auf dem Weg
+
+wvtdesv2	Hammer 'em!		Hammer sie!
+
+wvtdesv3 	Target Destroyed	Ziel zerstört
+
+wvtdesv4	Keep Moving!		Weitergehen!
+
+wvtdesv8	Fixin' her up		Befestigung
+
+wvtdesv9	Loading up		umladen sie Kanone
+
+wvtdesva	Searching for targets	Suche nach Zielen
+
+wvtdesvb	Defending the area	Verteidigung sie der Region
+
+wvtdesvc	On my way commander	Ich bin schon unterwegs Kommandant!
+
+wvtdesvd	Heading back		zurückgehen
+
+wvtdesvj	Engaging target		Ziel setzen
+
+wvtdesvk	Moving to escort	Wechsel zu begleiten
+
+wvtdesvm	Heading to nav		bewegen sie das Blinklicht
+
+wvtdesvn	Ja Kommandant			Yes Commander
+
+wvtdesvp	Jawohl Kommandant		Yes Commander

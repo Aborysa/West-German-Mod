@@ -1,0 +1,19 @@
+vehicle
+"West German HTnk"
+3					# Vehicle Size
+1					# Vehicle Type
+5					# LOD Distance 1
+-1					# LOD Distance 2
+-1					# LOD Distance 3
+-1					# LOD Distance 4
+-1					# LOD Distance 5
+2250					# Mass (kg)
+1.0					# Collision Multiplier
+0.0008					# Drag Coefficient
+wvhtnk.x				# Vehicle Geometry
+
+element_tables
+end
+end
+
+

@@ -1,0 +1,33 @@
+NOTE: Incomplete
+
+wvhrazv0	Line breaker ready!	
+
+wvhrazv1	En route		auf dem Weg
+
+wvhrazv2	Firing!			
+
+wvhrazv3 	Target Destroyed	Ziel zerstört
+
+wvhrazv4	Keep Moving!		Weitergehen!
+
+wvhrazv8	Fixin' her up		Befestigung
+
+wvhrazv9	Loading up		umladen sie Kanone
+
+wvhrazva	They won't escape
+
+wvhrazvb	Holding ground		
+
+wvhrazvc	Coming Commander	
+
+wvhrazvd	Heading back		zurückgehen
+
+wvhrazvj	Engaging target		Ziel setzen
+
+wvhrazvk	Moving to escort	Wechsel zu begleiten
+
+wvhrazvm	Heading to nav		bewegen sie das Blinklicht
+
+wvhrazvn	Ja Kommandant			Yes Commander
+
+wvhrazvp	Jawohl Kommandant		Yes Commander

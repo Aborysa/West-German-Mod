@@ -1,0 +1,23 @@
+NOTE: Current phrases are those of the NSDF APC
+
+wvapcv0		Moving out
+
+avapcv2		Ah fresh air
+
+avapcv3		Following		
+
+avapcv4		Getting Repair
+
+avapcv5		Closing In
+
+avapcv6		Recycling
+
+avapcv9		Locked and Loaded
+
+avapcva		Awaiting Orders		Assault Troops
+
+avapcvb		Unable to Comply
+
+avapcvh		Yes Sir
+
+avapcvj		APC Here		

@@ -1,0 +1,67 @@
+[GameObject]
+classLabel = "wingman"
+scrapValue = 6
+scrapCost = 9
+buildTime = 12.0
+maxHealth = 4000
+maxAmmo = 1200
+unitName = "Heavy Tank"
+aiName = "TankFriend"
+aiName2 = "TankEnemy"
+
+weaponHard1 = "GC1"
+weaponName1 = "gspstab"
+weaponHard2 = "GC2"
+weaponName2 = "gminigun"
+weaponHard3 = "GM1"
+weaponName3 = "gmdmgun"
+weaponMask=00001
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 5.0f
+velocJam = 5.0f
+
+selectWaitMsg = "wvhtnkv0.wav"
+selectAttackMsg = "wvhtnkvj.wav"
+selectFollowMsg = "wvhtnkvn.wav"
+selectGoMsg = "wvhtnkvm.wav"
+selectOtherMsg = "wvhtnkvp.wav"
+
+goMsg = "wvhtnkv1.wav"
+attackMsg = "wvhtnkv2.wav"
+followMeMsg = "wvhtnkv4.wav"
+followMsg = "wvhtnkvk.wav"
+repairMsg = "wvhtnkv8.wav"
+reloadMsg = "wvhtnkv9.wav"
+rescueMsg = "wvhtnkvc.wav"
+recycleMsg = "wvhtnkvd.wav"
+otherMsg = "wvhtnkvn.wav"
+
+user1Msg = "wvhtnkva.wav"
+killedMsg = "wvhtnkv3.wav"
+diedMsg = "abetty3.wav"
+
+[HoverCraftClass]
+setAltitude = 1.5
+accelDragStop = 3.5
+accelDragFull = 1.0
+alphaTrack = 20.0
+alphaDamp = 5.0
+pitchPitch = 0.25
+pitchThrust = 0.1
+rollStrafe = 0.1
+rollSteer = 0.1
+
+velocForward = 18.0
+velocReverse = 13.0
+velocStrafe = 15.0
+accelThrust = 15.0
+accelBrake = 75.0
+omegaSpin = 3.0
+omegaTurn = 1.0
+alphaSteer = 4.0
+accelJump = 15.0
+
+soundThrust = "avhraze0.wav"
+soundTurbo = "avhraze3.wav"

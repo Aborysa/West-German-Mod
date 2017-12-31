@@ -1,0 +1,31 @@
+Schildkröte (Heavy Tank) Configuration:
+
+Hardpoints:
+Cannon:[SP Stabber]
+Cannon:[Minigun]
+Mortar:[MDM Mortar]
+
+Health: 3500
+Ammo: 1300
+
+Scrap Cost: 9
+Build Time: Minimally longer than NSDF Grizzly
+
+Maneuverability: Same forward speed as NSDF Grizzly, slower in all other respects.
+Pilot Location: Front center of the central hull
+
+(Honestly I can do most of the ODF, if you could just get a base ODF up that would be great. Literally just take the Grizzly ODF and apply it to the Schildkrote, once it gets back to me I can edit it so that it has the proper stats.)
+
+Notes on Hardpoint placement: SP-Stabber is the big gun, minigun is the smaller turret. Place the mortar hard point on the top rear center of the tank.
+
+Regarding the 3d model, Silver Sparrow included the model in two formats, use whichever one suits you best.
+
+Size: I have included a size comparison picture, use this to scale the Schildkrote correctly. If you have not guessed this tank is definitely larger than the Grizzly. If you are unsure on scaling the Schildkrote Tank, contact me and we'll figure it out.
+
+Pilot Location: The pilot is located in the front center of the hull, right at the top of the Maltese cross. (It would be cool if the pilot location was actually in the middle of the view port on the front, I'll talk to you about that later. I have a small worry about balance in that catagory.)
+
+For animations, the rear thrusters rotate left and right when the tank strafes. For the thruster jets, I'll ahve to talk to you in real time about that.
+
+For it's collision box, the collision box should be fairly tight for this one. 
+
+And one last note: The two round things on the underside are NOT wheels lol, I say this half jokingly because many have mistaken those for wheels. This is a hover tank :)

@@ -1,0 +1,55 @@
+[GameObjectClass]
+basename = "hvsav"
+classLabel = "wingman"
+scrapValue = 14
+scrapCost = 16
+buildtime = 16
+maxHealth = 6000
+maxAmmo = 4000
+unitName = "Hades"
+aiName = "RocketTankFriend"
+aiName2 = "RocketTankEnemy"
+heatSignature = 3.0
+imageSignature = 5.0
+radarSignature = 1.0
+
+weaponHard1 = "GC1"
+weaponName1 = "gbolt"
+weaponHard2 = "GR1"
+weaponName2 = "gbolt"
+weaponHard3 = "GM1"
+weaponName3 = "gofir"
+weaponHard4 = "GS1"
+weaponName4 = "gofir"
+
+weaponmask = 01111
+
+[CraftClass]
+rangeScan = 500.0f
+periodScan = 2.0f
+velocJam = 5.0f
+
+[HoverCraftClass]
+setAltitude = 1.0
+accelDragStop = 3.5
+accelDragFull = 1.0
+alphaTrack = 20.0
+alphaDamp = 5.0
+pitchPitch = 0.25
+pitchThrust = 0.0
+rollStrafe = 0.0
+rollSteer = 0.0
+
+velocForward = 25.0
+velocReverse = 20.0
+velocStrafe = 20.0
+accelThrust = 20.0
+accelBrake = 25.0
+omegaSpin = 2.0
+omegaTurn = 1.0
+alphaSteer = 5.0
+accelJump = 4.0
+
+soundDeploy = "avsave5.wav"
+soundUndeploy = "avsave6.wav"
+soundThrust = "avsave0.wav"

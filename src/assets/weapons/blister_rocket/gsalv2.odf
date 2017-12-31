@@ -1,0 +1,12 @@
+[WeaponClass]
+classLabel = "cannon"
+ordName = "salv2"
+wpnName = "Blister Rocket"
+fireSound = "ordin_d.wav"
+wpnReticle = "grktbomb"
+wpnPriority = 3
+wpnCategory = "ROCK"
+
+[CannonClass]
+shotDelay = 0.2
+

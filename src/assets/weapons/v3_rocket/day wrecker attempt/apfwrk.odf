@@ -1,0 +1,14 @@
+[GameObjectClass]
+baseName = "apwrck"
+classLabel = "ammopack"
+scrapCost = 1
+scrapValue = 0
+maxHealth = 150
+maxAmmo = 0
+unitName = "Ammo"
+aiName = "PowerUpProcess"
+
+[AmmoPackClass]
+ammoUp = 500
+soundPickup = "weapon.wav"
+soundReject = "mnu_buzz.wav"

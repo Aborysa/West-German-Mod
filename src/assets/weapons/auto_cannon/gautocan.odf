@@ -1,0 +1,12 @@
+[WeaponClass]
+classLabel = "machinegun"
+ordName = "bautocan"
+wpnName = "AutoCannon"
+fireSound = "gmsov00.wav"
+wpnReticle = "gminigun"
+wpnPriority = 0
+wpnCategory = "CANN"
+
+[MachineGunClass]
+shotDelay = 0.25
+

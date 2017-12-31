@@ -1,0 +1,12 @@
+
+Conversion Beam: A slow damaging Flash Cannon-type weapon that slows the target
+
+Olympian Fire: A mildly longer range, more powerful bolt buddy
+
+Hadean Fire: Bolt Buddy with Extreme Range, mildly more damage
+
+Eye of Medusa: A bolt buddy that freezes the target instantly
+
+Bolt Mortar: A Splinter mortar that fires bolt buddies
+
+Screamer: An unusual type of rocket (already made, check in WG mod base folders)

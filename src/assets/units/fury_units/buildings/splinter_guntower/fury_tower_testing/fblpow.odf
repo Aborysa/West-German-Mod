@@ -1,0 +1,17 @@
+[GameObjectClass]
+basename = "hbptow"
+classLabel = "powerplant"
+scrapCost = 3
+scrapValue = 3
+maxHealth = 2400
+maxAmmo = 0
+unitName = "L-Power"
+heatSignature = 0.8
+imageSignature = 8.0
+radarSignature = 1.0
+
+[BuildingClass]
+soundAmbient = "ablplane0.wav"
+
+[PowerPlantClass]
+powerRange = 200.0

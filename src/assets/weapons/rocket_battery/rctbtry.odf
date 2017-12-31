@@ -1,0 +1,38 @@
+[OrdnanceClass]
+classLabel = "thermalmissile"
+
+shotGeometry = "gshadow00.geo"
+shotSound = "sprinkle00.wav"
+
+xplGround = "xrbtxpl"
+xplVehicle = "xrbtxpl"
+xplBuilding = "xrbtxpl"
+
+ammoCost = 10
+lifeSpan = 1.5
+shotSpeed = 100.0
+damageBallistic = 0
+damageConcussion = 100
+damageFlame = 0
+damageImpact = 0
+
+[RocketClass]
+flameRadius = 0.2
+flameLength = 10.0
+flameTexture = "exhaust_g.0"
+flameFrames = 4
+flareRadius = 1.5
+flareTexture = "flare.0"
+flareFrames = 4
+smokeRadius = 0.0
+smokeDelay = 300
+smokePause = 300
+smokeTexture = "rsmoke.0"
+smokeFrames = 0
+
+[MissileClass]
+omegaTurn = 0.5
+shotAccel = 150.0
+
+[HeatseekerClass]
+coneAngle = 0.15

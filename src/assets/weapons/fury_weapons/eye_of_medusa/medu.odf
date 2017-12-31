@@ -1,0 +1,26 @@
+[OrdnanceClass]
+classLabel = "anchor"
+
+shotGeometry = NULL
+xplGround = "xlgtgnd"
+xplVehicle = "xlgtcar"
+xplBuilding = "xlgtbld"
+
+ammoCost = 20
+lifeSpan = 300e-6
+shotSpeed = 1e6
+damageBallistic = 10
+damageConcussion = 0
+damageFlame = 0
+damageImpact = 10
+
+[BeamClass]
+segmentRadius = 0.2
+segmentLength = 2.0
+segmentVariance = 5.0
+segmentTexture = "beam_b.1"
+
+[AnchorRocketClass]
+accelDrag = 16.0
+alphaDrag = 1.0
+anchorTime = 5.0

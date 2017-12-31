@@ -1,0 +1,55 @@
+[GameObjectClass]
+basename = "hvsat"
+classLabel = "wingman"
+scrapValue = 12
+scrapCost = 9
+buildtime = 15
+maxHealth = 4000
+maxAmmo = 2500
+unitName = "Medusa"
+aiName = "TankFriend"
+aiName2 = "TankEnemy"
+heatSignature = 0.5
+imageSignature = 0.8
+radarSignature = 1.0
+
+weaponHard1 = "GC1"
+weaponName1 = "ghfir"
+weaponHard2 = "GR1"
+weaponName2 = "ghfir"
+weaponHard3 = "GM1"
+weaponName3 = "gmedu"
+weaponHard4 = "GS1"
+weaponName4 = "ghfir"
+
+weaponmask = 01111
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 2.0f
+velocJam = 5.0f
+
+[HoverCraftClass]
+setAltitude = 1.0
+accelDragStop = 3.5
+accelDragFull = 1.0
+alphaTrack = 20.0
+alphaDamp = 5.0
+pitchPitch = 0.25
+pitchThrust = 0.0
+rollStrafe = 0.0
+rollSteer = 0.0
+
+velocForward = 20.0
+velocReverse = 20.0
+velocStrafe = 20.0
+accelThrust = 20.0
+accelBrake = 25.0
+omegaSpin = 2.0
+omegaTurn = 1.0
+alphaSteer = 5.0
+accelJump = 4.0
+
+soundDeploy = "avsave5.wav"
+soundUndeploy = "avsave6.wav"
+soundThrust = "avsave0.wav"

@@ -1,0 +1,12 @@
+[WeaponClass]
+classLabel = "cannon"
+ordName = "salvrct"
+wpnName = "Barrage Rocket"
+fireSound = "sprink01.wav"
+wpnReticle = "grktbomb"
+wpnPriority = 3
+wpnCategory = "ROCK"
+
+[CannonClass]
+shotDelay = 0.2
+

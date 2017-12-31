@@ -1,0 +1,28 @@
+[GameObjectClass]
+classLabel = "torpedo"
+baseName = "wvrock"
+scrapValue = 0
+scrapCost = 0
+maxHealth = 1200
+maxAmmo = 1000
+unitName = "V3 Rocket"
+aiName = "TorpedoProcess"
+aiName2 = "TorpedoProcess"
+
+[CraftClass]
+rangeScan = 0.0f
+periodScan = 0.0f
+velocJam = 0.0f
+
+[TorpedoClass]
+setAltitude = 1.5
+alphaTrack = 20.0
+alphaDamp = 5.0
+velocForward = 50.0
+accelThrust = 100.0
+omegaTurn = 4.0
+alphaSteer = 5.0
+lifeSpan = 200.0
+xplBlast = "xtorxpl"
+
+soundThrust = "waspmsl.wav"
