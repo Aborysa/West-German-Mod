@@ -1,0 +1,73 @@
+[GameObjectClass]
+classLabel = "wingman"
+scrapValue = 5
+scrapCost = 8
+buildTime = 10.0
+maxHealth = 3000
+maxAmmo = 1200
+weaponMask=00001
+unitName = "Tank"
+aiName = "TankFriend"
+aiName2 = "TankEnemy"
+heatSignature = 1.2
+imageSignature = 3.0
+radarSignature = 0.2
+
+weaponHard1 = "GC1"
+weaponName1 = "gatstab"
+weaponHard2 = "GC2"
+weaponName2 = 
+weaponHard3 = "GS1"
+weaponName3 = "gquake"
+weaponHard4 = "GM1"
+weaponName4 = "gmortar"
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 5.0f
+velocJam = 5.0f
+
+selectWaitMsg = "wvtankv0.wav"
+selectAttackMsg = "wvtankvj.wav"
+selectFollowMsg = "wvtankvn.wav"
+selectGoMsg = "wvtankvm.wav"
+selectOtherMsg = "wvtankvp.wav"
+
+goMsg = "wvtankv1.wav"
+attackMsg = "wvtankv2.wav"
+followMeMsg = "wvtankv4.wav"
+followMsg = "wvtankvk.wav"
+repairMsg = "wvtankv8.wav"
+reloadMsg = "wvtankv9.wav"
+rescueMsg = "wvtankvc.wav"
+recycleMsg = "wvtankvd.wav"
+otherMsg = "wvtankvn.wav"
+
+user1Msg = "wvtankva.wav"
+killedMsg = "wvtankv3.wav"
+diedMsg = "abetty3.wav"
+
+[HoverCraftClass]
+setAltitude = 1.0
+accelDragStop = 4.0
+accelDragFull = 1.0
+alphaTrack = 20.0
+alphaDamp = 5.0
+pitchPitch = 0.25
+pitchThrust = 0.1
+rollStrafe = 0.1
+rollSteer = 0.1
+
+velocForward = 20.0
+velocReverse = 15.0
+velocStrafe = 20.0
+accelThrust = 20.0
+accelBrake = 75.0
+omegaSpin = 3.5
+omegaTurn = 1.5
+alphaSteer = 5.0
+accelJump = 20.0
+
+soundThrust = "avtanke0.wav"
+soundTurbo = "avtanke3.wav"
+

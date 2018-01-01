@@ -1,0 +1,13 @@
+[Builder]
+buildName = "Combat"
+buildTeam = 1
+buildItem1 = "avapc"
+buildItem2 = "avartl"
+buildItem3 = "avfigh"
+buildItem4 = "avhraz"
+buildItem5 = "avrckt"
+buildItem6 = "avmine"
+buildItem7 = "avltnk"
+buildItem8 = "avtank"
+buildItem9 = "wvtank"
+buildItem10 = "avwalk"

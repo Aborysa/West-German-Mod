@@ -12,7 +12,7 @@ size [1] =
 102
 [GameObject]
 PrjID [1] =
-player
+wvtank
 seqno [1] =
 1
 pos [1] =
@@ -24,7 +24,7 @@ pos [1] =
 99436.7
 team [1] =
 1
-label = player0_wingman
+label = wvtank0_wingman
 isUser [1] =
 1
 obj_addr = 00B01D68
