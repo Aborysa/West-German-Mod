@@ -1,0 +1,10 @@
+BADGER - Turret Tank
+A defensive emplacement that 
+exists in a deployed and an un-
+deployed state. Effective radius 
+of 120 meters. Can't fire when un-
+deployed. Has 2 Cannon hardpoints.
+
+COST: 6
+BUILDER: Recycler
+

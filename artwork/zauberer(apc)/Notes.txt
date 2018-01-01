@@ -1,0 +1,13 @@
+Well it occurred to me that I never actualy wrote up the APC's color scheme, to sum it up
+briefly it is along the same lines as most other West German units.
+
+The view ports on the upper front left of the front are kind of a dull glowing red.
+
+The turret below the front has a glowing red lense on it's left side. Also could you add a small MG to the right side of that turret? (that is a detail that never made it to the sketches...)
+Maltese Crosses are the usual colors, black with white trim. The main hull is a moon grey color with some wear and tear, nothing too dramatic. (the amount of wear you did on the Recycler and Factory models is absolutely perfect) Also if you could add the number 03 on the sides of the hull that would be awesome (numbers would be white)
+
+The large thrusters on either side are going to rotate forward and backwards during movement, no animation is required but if you could make it so the two thruster sections are seperate pieces on the model that would be appreciated. 
+
+Any questions or idea feel free to contact me and I'll get back to you ASAP.
+
+-Cothonian

@@ -1,0 +1,15 @@
+Mobilzonenregelung Fahrzeug (Mobile Zone Control Vehicle) “Sand tiger“ (Turret):
+Health: 2200
+Ammo: 2000
+
+HardPoints:
+Cannon:[Minigun]
+Cannon:[Empty]
+Rocket:[Sandbag]
+
+Scrap Cost: 6
+Build Time: Identical to NSDF Badger
+
+Maneuverability: Identical to a NSDF Badger
+Pilot Location: Front-center of the main hull, where the cockpit view ports are
+Appearance: Most of the turret is a “Moon Grey” color, with vertical dark gray stripes at a slight angle going up the sides of the main hull (kind of like Tiger stripes) and a white trimmed Maltese Cross in the center. The rear part of the main upper hull would be a flat “Moon Grey” color. The Wings are a solid “Moon Grey” color with black and white caution stripes along their back edge and a white-trimmed Maltese Cross in the center. The two thrusters are a stainless steel color, with green jets. The central leg (located between the two thrusters) is flat “Moon Grey.” Components that are semi-obscured (like the parts that connect the minigun/rocket pod to the hull, and the area those are connected to) are dark grey.

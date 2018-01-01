@@ -1,7 +1,7 @@
 [GameObject]
 classLabel = "wingman"
-scrapValue = 2
-scrapCost = 0
+scrapValue = 4
+scrapCost = 7
 buildTime = 8.0
 maxHealth = 2800
 maxAmmo = 1500
