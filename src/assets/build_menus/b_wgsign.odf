@@ -1,0 +1,8 @@
+[Builder]
+buildName = "WG\Supplies"
+buildTeam = 1
+buildItem1 = "apammo"
+buildItem2 = "aprepa"
+buildItem3 = "apcamr"
+buildItem4 = "aptech"
+buildItem5 = "proxmine"

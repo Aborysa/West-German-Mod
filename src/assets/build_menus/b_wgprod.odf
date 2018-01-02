@@ -1,0 +1,13 @@
+[Builder]
+buildName = "WG\Production"
+buildTeam = 1
+buildItem1 = "wvscav"
+buildItem2 = "avhaul"
+buildItem3 = "wvrecy"
+buildItem4 = "wvmuf"
+buildItem5 = "avslf"
+buildItem6 = "wvcnst"
+buildItem7 = "sbsilo"
+buildItem8 = "sblpow"
+buildItem9 = "sbspow"
+buildItem10 = "sbwpow"

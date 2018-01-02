@@ -1,0 +1,6 @@
+[Builder]
+buildName = "WG\Powerups\fury"
+buildTeam = 0
+buildItem1 = "apmedu"
+buildItem2 = "apofir"
+buildItem3 = "aphfir"

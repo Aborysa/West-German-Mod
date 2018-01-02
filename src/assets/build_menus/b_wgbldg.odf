@@ -1,0 +1,13 @@
+[Builder]
+buildName = "WG\Buildings"
+buildTeam = 1
+buildItem1 = "sbbarr"
+buildItem2 = "sbcafe"
+buildItem3 = "sbcomm"
+buildItem4 = "sbhang"
+buildItem5 = "sbhqcp"
+buildItem6 = "sblpad"
+buildItem7 = "sbmbld"
+buildItem8 = "sbshld"
+buildItem9 = "abstor"
+buildItem10 = "wbtowe"

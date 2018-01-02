@@ -1,0 +1,12 @@
+[Builder]
+buildName = "WG\Combat"
+buildTeam = 1
+buildItem1 = "avapc"
+buildItem2 = "avhraz"
+buildItem4 = "wvfigh"
+buildItem5 = "wvtank"
+buildItem6 = "wvrckt"
+buildItem7 = "wvltnk"
+buildItem8 = "wvhtnk"
+buildItem9 = "wvwalk"
+buildItem10 = "b_wgdef"

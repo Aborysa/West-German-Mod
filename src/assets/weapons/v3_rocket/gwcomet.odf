@@ -1,6 +1,6 @@
 [WeaponClass]
 classLabel = "radarlauncher"
-wpnName = "Comet"
+wpnName = "V3 Rocket"
 fireSound = "gcome00.wav"
 wpnReticle = "gcomet.0"
 wpnPriority = 0
@@ -21,4 +21,4 @@ targetReticle02 = "gcomet.2"
 targetReticle03 = "gcomet.3"
 
 [RadarLauncherClass]
-objectClass = "radarmsl"
+objectClass = "wradmsl"

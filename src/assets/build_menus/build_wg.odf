@@ -1,0 +1,8 @@
+[Builder]
+buildName = "West Germans"
+buildTeam = 1
+buildItem1 = "b_wgcmbt"
+buildItem2 = "b_wgprod"
+buildItem3 = "b_wgbldg"
+buildItem4 = "b_wgsign"
+buildItem7 = "b_wgpowr"
