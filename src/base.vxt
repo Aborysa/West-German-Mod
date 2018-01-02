@@ -1,0 +1,54 @@
+cvturr  cvturr.des  anims\cvturr.avi    Adder
+avtump  avtump.des  anims\avtur.avi     Badger
+bvtump  bvtump.des  anims\bvtur.avi     BDog Badger
+bvltnk  bvltnk.des  anims\bvltn.avi     BDog Bobcat
+bvraz   bvraz.des   anims\bvraz.avi     BDog Razor
+bvhraz  bvhraz.des  anims\bvhra.avi     BDog Bomber 
+bvtank  bvtank.des  anims\bvtan.avi     BDog Grizzly
+avltnk  avltnk.des  anims\avltn.avi     Bobcat
+avltmp  avltmp.des  anims\avltn.avi     Bobcat EX
+svartl  svartl.des  anims\svart.avi     Cannoneer
+ssuser  sspilo.des  anims\sspil.avi     CCA Pilot
+cvhmpa  cvhmpa.des  anims\cvhtnk.avi    Chancellor
+csuser  cvuser.des  anims\cspilo.avi    Chinese Pilot
+bvrmpa  bvrmpa.des  anims\bvrdev.avi    Crimson Bastard
+svtamp  svtamp.des  anims\svtan.avi     Capitan
+svtank  svtank.des  anims\svtan.avi     Czar
+cvrmpa  cvrmpa.des  anims\cvrckt.avi    Dragon
+avlamp  avlamp.des  anims\avlan.avi     Eagle Lander
+svfimp  svfimp.des  anims\svraz.avi     Flanker
+cvhtnk  cvhtnk.des  anims\cvhtnk.avi    Emporer
+svwamp  svwalk.des  anims\svwal.avi     Golem
+svhraz  svhraz.des  anims\svhra.avi     Grendel
+avtank  avtank.des  anims\avtan.avi     Grizzly
+cvtmpa  cvtmpa.des  anims\cvtnk.avi     Kaksha
+svatnk  svatnk.des  svank.avi           Kamchatka
+cvwalk  cvwalk.des  anims\cvwalk.avi    Mongo
+cvfigh  cvfigh.des  anims\cvfigh.avi    Mongoose
+cvltnk  cvltnk.des  anims\cvltnk.avi    Naga
+avartl  avartl.des  anims\avart.avi     Longbow
+asuser  aspilo.des  anims\aspil.avi     NSDF Pilot
+svtump  svtump.des  anims\svtur.avi     Pak
+cvhraz  cvhraz.des  anims\cvhraz.avi    Phoenix
+avtam2  avtam2.des  anims\avtan.avi     Ram
+avfimp  avfimp.des  anims\avraz.avi     Razor
+bvrdev  bvrdev.des  anims\bvrdev.avi    Red Devil
+cvhmpb  cvhmpb.des  anims\cvhtnk.avi    Regent
+avwalk  avwalk.des  anims\avwal.avi     Sasquatch
+avwamp  avwamp.des  anims\avwal.avi     Sasquatch AG
+bvrmpb  bvrmpb.des  anims\bvrdev.avi    Scarlet Git
+avtamp  avtamp.des  anims\avtan.avi     Stealth Tank
+svltnk  svltnk.des  anims\svltn.avi     Stoli
+avhrmp  avhrmp.des  anims\avhra.avi     Thunderbolt
+svrckt  svrckt.des  anims\svrck.avi     Tusker
+cvhzmp  cvhzmp.des  anims\cvhraz.avi    Unix
+cvfimp  cvfimp.des  anims\cvfigh.avi    Weasel
+avrckt  avrckt.des  anims\avrck.avi     Wolverine
+wvfigh  wvfigh.des  anims\avraz.avi     Abfangjager
+wvhtnk  wvhtnk.des  wvhtk.avi           Schildkrote
+wvtdes  wvtdes.des  anims\avltn.avi     Fischer
+wsuser  aspilo.des  wspil.avi           WG Pilot
+wvrckt  wvrckt.des  wvrckt.avi          Jager
+wvltnk  wvltnk.des  wvltk.avi           Kobold
+wvkpan  wvkpan.des  wvltk.avi           K-Panzer
+wvturr  wvturr.des  wvtur.avi           Sand Tiger
