@@ -1,5 +1,5 @@
 [Builder]
-buildName = "WG\Buildings"
+buildName = "Buildings"
 buildTeam = 1
 buildItem1 = "sbbarr"
 buildItem2 = "sbcafe"

@@ -1,5 +1,5 @@
 [Builder]
-buildName = "WG\Combat"
+buildName = "Combat"
 buildTeam = 1
 buildItem1 = "avapc"
 buildItem2 = "avhraz"
